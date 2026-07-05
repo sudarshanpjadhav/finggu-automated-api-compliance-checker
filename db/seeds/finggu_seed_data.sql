@@ -1,0 +1,1 @@
+INSERT INTO finggu_alerts (message) VALUES ('Initial alert for testing.');
